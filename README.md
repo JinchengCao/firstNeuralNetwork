@@ -2,6 +2,8 @@
 My first neural network for deep learning to predict bike sharing trends
 
 To run the notebook:
+
+
 1.go to the directory of firstNeuralNetwork
 
 2.conda create --name dlnd python=3
