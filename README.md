@@ -1,8 +1,9 @@
 # firstNeuralNetwork
 My first neural network for deep learning to predict bike sharing trends
+
 To run the notebook:
-go to the directory of firstNeuralNetwork
-conda create --name dlnd python=3
-source activate dlnd
-conda install numpy matplotlib pandas jupyter notebook
-jupyter notebook dlnd-your-first-neural-network.ipynb
+1.go to the directory of firstNeuralNetwork
+2.conda create --name dlnd python=3
+3.source activate dlnd
+4.conda install numpy matplotlib pandas jupyter notebook
+5.jupyter notebook dlnd-your-first-neural-network.ipynb
